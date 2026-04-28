@@ -14,11 +14,9 @@ credits: true
 
 ## About the Collection
 
-This is a collection of treasured excerpts from my great grandmother's journals. Most journal entries are from her travels but some include outings taken close to home. I hope you enjoy this glimpse into her life as she took trips near and far by automobile in the mid-20th century.
+This is a collection of treasured excerpts from my great grandmother's journals. Most journal entries are from her travels but some include outings taken close to home. I hope you enjoy this glimpse into her life from the trips she took near and far by automobile in the mid-20th century.
 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
  
